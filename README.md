@@ -7,9 +7,9 @@ I'm Stephanie. I'm a Digital **Product Designer** based in Berlin, Germany. I co
 
 After work, you can find me 👩‍🍳 in the kitchen, playing 🎾 or cuddling with my 🐶 Alaska. She's adorable, but very sneaky.
 
-![DOG](./Alaska1.jpg) ![DOG](./Alaska3.png) 
+![DOG](./a1.jpg) ![DOG](./a2.jpg) ![DOG](./a3.jpg) 
 
-## Here's some things about me:
+## Here's some info about me:
 
 | Things I Like  | Things I don't Like |
 | ------------- | -------------------- |
