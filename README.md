@@ -6,3 +6,11 @@ After work, you can find me 👩‍🍳 in the kitchen, playing 🎾 or cuddling
 
 ![DOG](./Alaska.jpg)
 
+# Here's some things about me:
+
+| Thinga I Like  | Things I don't Like |
+| ------------- | -------------------- |
+| Christmas     | Licorice             |
+| San Francisco | Novak Djokovic       |
+| Tennis        | Drizzling rain       |
+| Live shows    | Berlin road rage     |
