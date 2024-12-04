@@ -1,4 +1,7 @@
-# Why, hello there! I'm so happy you're here.
+# Why, hello there! I'm so happy you're here. 👋
+[![Linkedin Badge](https://img.shields.io/badge/-stephanie-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/stephanie-preuthen/))](https://www.linkedin.com/in/stephanie-preuthen/)
+[![Instagram Badge](https://img.shields.io/badge/-@frostandfreckles-purple?style=flat&logo=instagram&logoColor=white&link=[https://instagram.com/_jessicaalim/](https://www.instagram.com/frostandfreckles/))]([https://instagram.com/_jessicaalim](https://www.instagram.com/frostandfreckles/))
+[![Gmail Badge](https://img.shields.io/badge/-kann.zaubern-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kann.zaubern@gmail.com)](mailto:kann.zaubern@gmail.com)
 
 I'm Stephanie. I'm a Digital **Product Designer** based in Berlin, Germany. I come from a **Product Management** background and worked as a PO for 6 years before transitioning to design.
 
