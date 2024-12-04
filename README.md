@@ -7,11 +7,11 @@ I'm Stephanie. I'm a Digital **Product Designer** based in Berlin, Germany. I co
 
 After work, you can find me 👩‍🍳 in the kitchen, playing 🎾 or cuddling with my 🐶 Alaska. She's adorable, but very sneaky.
 
-![DOG](./Alaska.jpg)
+![DOG](./Alaska1.jpg) ![DOG](./Alaska3.png) 
 
-# Here's some things about me:
+## Here's some things about me:
 
-| Thinga I Like  | Things I don't Like |
+| Things I Like  | Things I don't Like |
 | ------------- | -------------------- |
 | Christmas     | Licorice             |
 | San Francisco | Novak Djokovic       |
